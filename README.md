@@ -1,2 +1,2 @@
 # netflixgpt
-This is a Movie recommendation app
+This is a Netflix clone with GPT-3 integration

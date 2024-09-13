@@ -3,8 +3,14 @@
 - Create React App
 - Configured Tailwind Css
 - Header
+- Routing
 - Login Form
 - Sign Up Form
+- Form Validation
+- Firebase setup
+- Deployed app to production
+- Created signin and signip / authentication part
+- Created redux store to store data
 
 # Features
 
